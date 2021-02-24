@@ -1,0 +1,12 @@
+google-api-python-client
+httplib2
+uritemplate
+flask
+youtube_dl
+beautifulsoup4~=4.9.3
+requests_html
+google-auth-oauthlib
+gazpacho
+bs4~=0.0.1
+requests~=2.25.1
+selenium~=3.141.0
